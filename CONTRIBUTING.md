@@ -29,4 +29,3 @@
 Browse `good first issue` labels or ask here 👇
 
 **Thanks for helping! 🚀**
-EOF
