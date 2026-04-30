@@ -1,4 +1,3 @@
-cat > output/CONTRIBUTING-SHORT.md <<'EOF'
 # 🤝 How to Contribute
 
 [![Contributions welcome](https://img.shields.io/badge/contribute-join-brightgreen?style=for-the-badge)](https://github.com/notjackpots/github-final-project/issues)
